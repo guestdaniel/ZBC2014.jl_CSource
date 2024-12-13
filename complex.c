@@ -1,7 +1,9 @@
 /*
-  This is a variant of the 2014 Zilany, Bruce, and Carney (2014) auditory-nerve model. See
-  README.md for a list of changes made versus the original version, which is available at:
+  This file is part of a variant of version 5.2 of the Zilany, Bruce, and Carney (2014)
+  auditory-nerve model. Licensing information can be found below. See README.md for a list
+  of changes made versus the original version, which is available at:
   https://www.urmc.rochester.edu/labs/carney/publications-code/auditory-models.aspx.
+
 
   Papers related to this code are cited below:
 
@@ -30,15 +32,23 @@
   Please cite these papers marked with asterisks (*) if you publish any research results 
   obtained with this code or any modified versions of this code.
 
-  Major contributors (as of December 2024) include:
-    D. R. Guest
-    M. S. A. Zilany
-    R. A. Ibrahim
-    P. C. Nelson
-    I. C. Bruce
-    L. H. Carney
 
-  This code is licensed under the GNU GPLv3 license.
+  Zilany, Bruce, Carney (2014) auditory-nerve model source code, Copyright (C) 2024 
+    M. S. A. Zilany <msazilany@gmail.com> 
+    Ian C. Bruce <ibruce@ieee.org> 
+    Laurel H. Carney <laurel_carney@urmc.rochester.edu>
+    Daniel R. Guest <dguest2@urmc.rochester.edu>
+
+  This program is free software: you can redistribute it and/or modify it under the terms of
+  the GNU Affero General Public License as published by the Free Software Foundation, either
+  version 3 of the License, or (at your option) any later version.
+
+  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; 
+  without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
+  See the GNU Affero General Public License for more details.
+
+  You should have received a copy of the GNU Affero General Public License along with this
+  program. If not, see <http://www.gnu.org/licenses/>.
 */
 
 #include <stdlib.h>

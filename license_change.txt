@@ -1,0 +1,158 @@
+This is an edited copy of an email chain regarding licensing of the auditory-nerve model
+code described in: 
+
+Zilany, M. S. A., Bruce, I. C., & Carney, L. H. (2014). Updated parameters and expanded
+simulation options for a model of the auditory periphery. The Journal of the Acoustical
+Society of America, 135(1), 283–286. https://doi.org/10.1121/1.4837815
+
+... and originally hosted at:
+
+https://www.urmc.rochester.edu/MediaLibraries/URMCMedia/labs/carney-lab/codes/Zilany-2014-Code-and-paper.zip
+
+The original code is unlicensed, but a modified version is being released in this repository
+with a GNU AGPL license. This email chain provides written consent for the release and
+license modification from the original authors. The original email chain has been edited to
+remove personal information, irrelevant content, banter, etc. Instances of this have been
+indicated with the text "[redacted]". 
+
+
+
+--------------------------------------------------------------------------------------------
+12/6/2024 1:36 PM
+From: Daniel Guest<daniel_guest@urmc.rochester.edu>
+To: Muhammad Zilany <msazilany@gmail.com>; Ian Bruce <brucei@mcmaster.ca>; Laurel Carney
+<laurel_carney@urmc.rochester.edu>
+
+Hi all,
+
+Great, thanks so much for agreeing to release the modified 2014 model code under the GNU
+AGPL license!
+
+[redacted]
+
+Best,
+Danny
+
+Daniel Guest
+daniel_guest@urmc.rochester.edu
+NIH F32 Postdoctoral Fellow, Carney Lab, University of Rochester
+[redacted]
+
+--------------------------------------------------------------------------------------------
+12/5/2024 4:24 PM
+From: Ian Bruce <brucei@mcmaster.ca>
+To: Muhammad Zilany <msazilany@gmail.com>; Daniel Guest <daniel_guest@urmc.rochester.edu>;
+Laurel Carney <laurel_carney@urmc.rochester.edu>
+
+Hi Laurel, Danny & Zilany,
+
+[redacted]
+
+I’m okay with the GNU AGPL.
+
+[redacted]
+
+Ian
+
+Ian C. Bruce, PhD, PEng
+Professor
+Department of Electrical and Computer Engineering
+McMaster University
+[redacted]
+
+--------------------------------------------------------------------------------------------
+12/5/2024 11:37 AM
+From: Laurel Carney <laurel_carney@urmc.rochester.edu>
+To: Muhammad Zilany <msazilany@gmail.com>; Daniel Guest <daniel_guest@urmc.rochester.edu>;
+Ian Bruce <brucei@mcmaster.ca>
+
+Thanks Danny,
+
+Unless Ian responds that a license for the 2014 AN model was ‘procured’ at some point,
+then I agree with your suggestion to add a GNU AGPL to the code that is included with
+your Julia wrapper. [redacted]
+
+THANKS! -Laurel
+
+Laurel H. Carney, PhD
+Marylou Ingram Professor of Biomedical Engineering
+Professor, Biomedical Engineering, Neuroscience, Electrical & Computer Engineering
+University of Rochester
+[redacted]
+Laurel_Carney@URMC.Rochester.edu
+https://www.urmc.rochester.edu/labs/carney.aspx
+Cloud-based auditory models: https://urhear.urmc.rochester.edu
+Open Science Framework: Computational Models: https://osf.io/6bsnt/
+[redacted]
+
+--------------------------------------------------------------------------------------------
+12/5/2024 11:27 AM
+From: Daniel Guest<daniel_guest@urmc.rochester.edu>
+To: Muhammad Zilany <msazilany@gmail.com>; Ian Bruce <brucei@mcmaster.ca>; Laurel Carney
+<laurel_carney@urmc.rochester.edu>
+
+Hi all,
+
+[redacted — here the nature of the Julia BinaryBuilder.jl system is explained to motivate
+ the need for a license file or permission to relicense the modified code.]
+ 
+I'm partial to GNU AGPL, but totally open to discussion!
+
+[redacted]
+
+Best,
+Danny
+
+Daniel Guest
+daniel_guest@urmc.rochester.edu
+NIH F32 Postdoctoral Fellow, Carney Lab, University of Rochester
+[redacted]
+
+--------------------------------------------------------------------------------------------
+12/5/2024 11:25 AM
+From: Muhammad Zilany <msazilany@gmail.com>
+To: Ian Bruce <brucei@mcmaster.ca>; Laurel Carney <laurel_carney@urmc.rochester.edu>; Daniel
+Guest<daniel_guest@urmc.rochester.edu>
+
+Hi Laurel and Ian,
+
+[redacted] 
+
+Regarding the license, we don’t have any so far, however, Ian can confirm that. I would be
+happy to go with you both and whatever needs to be done from my side, I would definitely do
+that.
+
+Thanks,
+
+Zilany 
+
+--------------------------------------------------------------------------------------------
+12/5/2024 10:10 AM
+From: Laurel Carney <laurel_carney@urmc.rochester.edu>
+To: Muhammad Zilany <msazilany@gmail.com>; Daniel Guest <daniel_guest@urmc.rochester.edu>;
+Ian Bruce <brucei@mcmaster.ca>
+
+Hi Ian and Zilany,
+
+[redacted]
+
+I’m writing about licensing for the AN model (the 2014 version). [redacted]
+
+Our post-doc, Danny Guest, has implemented a version of the code in Julia, and would like to
+post it publicly along with the code for figures, etc., in a publication that was just
+accepted for JASA. [redacted] Let me know i) if there already is a license, ii) if not, 
+whether you have any objection to getting one, and iii) if it’s OK for Danny to take care of 
+identifying a suitable one. [redacted]
+
+Thanks, Laurel
+
+Laurel H. Carney, PhD
+Marylou Ingram Professor of Biomedical Engineering
+Professor, Biomedical Engineering, Neuroscience, Electrical & Computer Engineering
+University of Rochester
+[redacted]
+Laurel_Carney@URMC.Rochester.edu
+https://www.urmc.rochester.edu/labs/carney.aspx
+Cloud-based auditory models: https://urhear.urmc.rochester.edu
+Open Science Framework: Computational Models: https://osf.io/6bsnt/
+[redacted]
